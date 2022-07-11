@@ -1,5 +1,6 @@
-# trabalho
+# my_room
 
+Link para a parte do outro integrante da dupla: https://github.com/Jairo-Sousa/my_room
 ## Project setup
 ```
 npm install
